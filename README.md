@@ -1,9 +1,11 @@
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=anishishotasff&theme=aurora&label=Anish+Debnath&mode=light" /><img src="https://www.gitskins.com/api/section/wordmark?username=anishishotasff&theme=aurora&label=Anish+Debnath" width="100%" alt="Anish Debnath" /></picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=anishishotasff&theme=aurora&mode=light" /> <img src="https://www.gitskins.com/api/section/hero?username=anishishotasff&theme=aurora&mode=dark" width="100%" alt="Anish Debnath — profile" /> </picture> </p> <p align="center"><a href="https://github.com/anishishotasff">GitHub</a></p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=anishishotasff&theme=aurora&items=TypeScript%3A%3A20+public+repositories%7Cmy-career-plot%3A%3AFeatured+project%7CImpact%3A%3A1+stars+%C2%B7+18+active+days&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=anishishotasff&theme=aurora&items=TypeScript%3A%3A20+public+repositories%7Cmy-career-plot%3A%3AFeatured+project%7CImpact%3A%3A1+stars+%C2%B7+18+active+days" width="100%" alt="Highlights" /></picture> </p>
-The year, so far
-<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=anishishotasff&theme=aurora&style=jet&mode=light" /> <img src="https://www.gitskins.com/api/section/heatmap?username=anishishotasff&theme=aurora&style=jet&mode=dark" width="100%" alt="46 contributions in the last year" /> </picture> </p>
-Signal
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=anishishotasff&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=anishishotasff&theme=aurora" width="100%" alt="1 stars across 20 repositories" /></picture> </p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=anishishotasff&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=anishishotasff&theme=aurora" width="100%" alt="Language stack" /></picture> </p>
-Work
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=anishishotasff&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=anishishotasff&theme=aurora" width="100%" alt="Pinned projects" /></picture> </p>
-Profile scan
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=anishishotasff&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=anishishotasff&theme=aurora" width="100%" alt="ASCII profile scan" /></picture> </p> <hr /> <p align="center">
+```markdown
+<p align="center">
+  <img src="./LONDON%20TUBE.jpg" width="100%" />
+</p>
+
+:3
+
+backend // cybersecurity // linux
+
+[website](https://anishhh.vercel.app/) | [blogs & research](https://anishhh.vercel.app/blog.html) | [x (twitter)](https://x.com/RubixSec) | [email](mailto:anishdebnath15@gmail.com)
+```
